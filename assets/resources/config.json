@@ -1,0 +1,1 @@
+{"importBase":"import","nativeBase":"native","name":"resources","deps":[],"uuids":["d6a/WIrw5GO5LuWi2FzdOd","d6a/WIrw5GO5LuWi2FzdOd@6c48a"],"paths":{"0":["icon",0],"1":["icon/texture",1,1]},"scenes":{},"packs":{},"versions":{"import":[],"native":[]},"redirect":[],"debug":false,"extensionMap":{},"types":["cc.ImageAsset","cc.Texture2D"]}
